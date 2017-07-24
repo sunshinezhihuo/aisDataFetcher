@@ -1,8 +1,8 @@
 {
-  "name": "wugdatafetcher",
+  "name": "aisdatafetcher",
   "version": "1.2.1",
   "description": "Pull weahter data from weather underground",
-  "main": "wugDataFetcher.js",
+  "main": "aisDataFetcher.js",
   "dependencies": {
     "request": "^2.70.0"
   },

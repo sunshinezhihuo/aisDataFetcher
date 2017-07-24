@@ -1,4 +1,4 @@
-var wugDataFetcher =    require('./wugDataFetcher.js');
+var wugDataFetcher =    require('./aisDataFetcher.js');
 
 /**
  * wuStation = weather underground weather station ID see https://www.wunderground.com/weatherstation/overview.asp

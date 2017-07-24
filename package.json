@@ -1,0 +1,19 @@
+{
+  "name": "wugdatafetcher",
+  "version": "1.2.1",
+  "description": "Pull weahter data from weather underground",
+  "main": "wugDataFetcher.js",
+  "dependencies": {
+    "request": "^2.70.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"run testMe.js for quick usage test\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuckerGauge/wugDataFetcher.git"
+  },
+  "author": "John Rucker",
+  "license": "ISC"
+}
